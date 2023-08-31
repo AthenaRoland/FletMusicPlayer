@@ -14,5 +14,5 @@ Feature:
   ![截图 2023-08-31 14-17-12](https://github.com/AthenaRoland/FletMusicPlayer/assets/143491047/a0bc6c74-67fa-457a-9518-ad83671e44e3)
 
 注/concentrate：
-  Since I am now a freshman in high school, I don't have enough time, so the progress will be slower and I will get rid of everyone.
-  由于本人现在是高一新生，时间不是很充裕，所以进度会比较慢，也摆脱大家了。
+  Since I am a freshman in high school, I don't have enough time, so the progress will be slower, please everyone.
+  由于本人现在是高一新生，时间不是很充裕，所以进度会比较慢，也拜托大家了。
